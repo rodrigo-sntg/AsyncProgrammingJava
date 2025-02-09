@@ -1,6 +1,3 @@
-### 📌 **Async Programming**
-
-
 # 🏆 Score Ranking System - Multi-threaded Validation
 
 Este projeto implementa um **sistema de ranking de pontuação multi-threaded**, onde múltiplas threads realizam operações concorrentes para adicionar, recuperar e listar pontuações de usuários. O objetivo é garantir que o ranking seja atualizado corretamente em um ambiente assíncrono e multi-threaded.
